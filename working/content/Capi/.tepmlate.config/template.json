@@ -1,0 +1,20 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Polanskij Tihon",
+    "classifications": [
+        "Web",
+        "Clean Architecture Project",
+        "API",
+        "Microservice"
+    ],
+    "identity": "cone-prog.cleanarchitecture.template",
+    "name": "Clean Architecture Project by Polanskij Tihon",
+    "description": "Микросервис с Clean Architecture. Author: Polanskij Tihon (polanskijtihon@gmail.com, GitHub: @cone-prog)",
+    "shortName": "Capi",
+    "sourceName": "Capi",
+    "preferNameDirectory": true,
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    }
+}
