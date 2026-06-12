@@ -15,11 +15,13 @@ MyProject/
 read:packages и выполните:
 
 Шаблон
-``dotnet nuget add source https://nuget.pkg.github.com/<GITHUB_USERNAME>/index.json \
+``
+dotnet nuget add source https://nuget.pkg.github.com/<GITHUB_USERNAME>/index.json \
   --name <CUSTOM_NUGET_NAME> \
   --username <YOUR_GITHUB_USERNAME> \
   --password <YOUR_PERSONAL_ACCESS_TOKEN> \
-  --store-password-in-clear-text``
+  --store-password-in-clear-text
+``
 
 - Установить шаблон
 ``dotnet new install cone-prog.cleanarchitecture.template``
